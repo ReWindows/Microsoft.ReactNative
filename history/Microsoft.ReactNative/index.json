@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "Microsoft.ReactNative.dll",
+  "latest": "1774637378-00CBD41B4937412DB6C7E0F17B7A37DA-1",
+  "builds": [
+    {
+      "key": "1774637378-00CBD41B4937412DB6C7E0F17B7A37DA-1",
+      "timestamp": "1774637378",
+      "pdb_guid": "00CBD41B4937412DB6C7E0F17B7A37DA",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1774637378-00CBD41B4937412DB6C7E0F17B7A37DA-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
